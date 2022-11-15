@@ -10,11 +10,11 @@ Official implementation of "Identification and Classification of Human Mental St
 -Run the main.py with the models in appropriate memory locations w.r.t the code.
 
 # Authors :nerd_face:*
-Ayush Roy
-Arkaprovo Acharya
-Saborno Biswas
-Susanta Ray
-Biswarup Ganguly
+-Ayush Roy
+-Arkaprovo Acharya
+-Saborno Biswas
+-Susanta Ray
+-Biswarup Ganguly
 
 # Citation :thinking:*
 Please do cite our paper in case you find it useful for your research.
