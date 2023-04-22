@@ -10,11 +10,11 @@ Official implementation of "Identification and Classification of Human Mental St
 ![Workflow](https://user-images.githubusercontent.com/94052139/201930600-e6a58246-40bf-4fc8-acdb-8b0abdfd4cd3.png)
 
 ## How to use
--Download the models and the main.py
--Install the packages in the requirements.txt
--Connect Arduino UNO with AD8232
--Use Microsoft Data Streamer to collect and store the data of AD8232 in the csv file.
--Run the main.py with the models in appropriate memory locations w.r.t the code.
+-Download the models and the main.py.<br/>
+-Install the packages in the requirements.txt.<br/>
+-Connect Arduino UNO with AD8232.<br/>
+-Use Microsoft Data Streamer to collect and store the data of AD8232 in the csv file.<br/>
+-Run the main.py with the models in appropriate memory locations w.r.t the code.<br/>
 
 ## Authors :nerd_face:*
 Ayush Roy<br/>
