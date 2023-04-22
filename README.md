@@ -25,12 +25,8 @@ Biswarup Ganguly<br/>
 
 ## Citation :thinking:*
 Please do cite our paper in case you find it useful for your research.
-@INPROCEEDINGS{10077709,
-  author={Roy, Ayush and Acharya, Arkaprovo and Biswas, Sabarno and Ray, Susanta and Ganguly, Biswarup},
-  booktitle={2022 IEEE 6th International Conference on Condition Assessment Techniques in Electrical Systems (CATCON)}, 
-  title={Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={136-139},
+Citation-
+A. Roy, A. Acharya, S. Biswas, S. Ray and B. Ganguly, "Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach," 2022 IEEE 6th International Conference on Condition Assessment Techniques in Electrical Systems (CATCON), Durgapur, India, 2022, pp. 136-139, doi: 10.1109/CATCON56237.2022.10077709.
   doi={10.1109/CATCON56237.2022.10077709}}
+Link to our paper- 
+https://ieeexplore.ieee.org/abstract/document/10077709
