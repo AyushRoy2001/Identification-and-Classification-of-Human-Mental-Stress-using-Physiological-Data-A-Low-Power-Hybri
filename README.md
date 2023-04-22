@@ -24,9 +24,9 @@ Susanta Ray<br/>
 Biswarup Ganguly<br/>
 
 ## Citation :thinking:*
-Please do cite our paper in case you find it useful for your research.
--Citation-
+Please do cite our paper in case you find it useful for your research.<br/>
+Citation-<br/>
 A. Roy, A. Acharya, S. Biswas, S. Ray and B. Ganguly, "Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach," 2022 IEEE 6th International Conference on Condition Assessment Techniques in Electrical Systems (CATCON), Durgapur, India, 2022, pp. 136-139, doi: 10.1109/CATCON56237.2022.10077709.
-  doi={10.1109/CATCON56237.2022.10077709}}
--Link to our paper- 
+  doi={10.1109/CATCON56237.2022.10077709}}<br/>
+-Link to our paper-<br/>
 https://ieeexplore.ieee.org/abstract/document/10077709
