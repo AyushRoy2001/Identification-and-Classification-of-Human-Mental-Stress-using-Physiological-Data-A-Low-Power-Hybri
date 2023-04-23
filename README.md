@@ -19,7 +19,7 @@ Official implementation of "Identification and Classification of Human Mental St
 ## Authors :nerd_face:*
 Ayush Roy<br/>
 Arkaprovo Acharya<br/>
-Saborno Biswas<br/>
+Sabarno Biswas<br/>
 Susanta Ray<br/>
 Biswarup Ganguly<br/>
 
