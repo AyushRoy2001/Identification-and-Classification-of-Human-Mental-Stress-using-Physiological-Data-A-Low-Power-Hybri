@@ -1,4 +1,4 @@
-# Mental-Stress-Detection
+# Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach
 
 Official implementation of "Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach".
 
