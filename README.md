@@ -1,6 +1,6 @@
 # Mental-Stress-Detection
 
-Official implementation of "Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach"
+Official implementation of "Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach".
 
 ### Overall workflow:
 ![Overall](https://user-images.githubusercontent.com/94052139/201930316-52fe158d-3e57-4eca-b627-480ea1175c4c.png)
@@ -16,16 +16,16 @@ Official implementation of "Identification and Classification of Human Mental St
 -Use Microsoft Data Streamer to collect and store the data of AD8232 in the csv file.<br/>
 -Run the main.py with the models in appropriate memory locations w.r.t the code.<br/>
 
-## Authors :nerd_face:*
+## Authors :nerd_face:
 Ayush Roy<br/>
 Arkaprovo Acharya<br/>
 Sabarno Biswas<br/>
 Susanta Ray<br/>
 Biswarup Ganguly<br/>
 
-## Citation :thinking:*
+## Citation :thinking:
 Please do cite our paper in case you find it useful for your research.<br/>
-Citation-<br/>
+```
 @inproceedings{roy2022identification,
   title={Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach},
   author={Roy, Ayush and Acharya, Arkaprovo and Biswas, Sabarno and Ray, Susanta and Ganguly, Biswarup},
@@ -34,5 +34,4 @@ Citation-<br/>
   year={2022},
   organization={IEEE}
 } <br/>
--Link to our paper-<br/>
-https://ieeexplore.ieee.org/abstract/document/10077709
+```
